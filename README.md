@@ -11,13 +11,13 @@ Using VBA with the information I was given, I was able to make the code more eff
 
 # Results
      
-##The Analysis Described With Screenshots and Code 
+## The Analysis Described With Screenshots and Code 
 
--VBA_Challenge_2018
+- VBA_Challenge_2018
 
 ![name-of-you-image](https://github.com/skinnytwinvale/stocks-analysis/blob/2a87ea72f5b306567852b318795f7a5b67effd6d/VBA_Challenge_2018.png.png)
 
--VBA_Challenge_2017
+- VBA_Challenge_2017
 
 ![name-of-you-image](https://github.com/skinnytwinvale/stocks-analysis/blob/e24e13261097ff89df7ae3b997f86b5852a9012f/VBA_Challenge_2017.png)
 
@@ -37,20 +37,20 @@ Using VBA with the information I was given, I was able to make the code more eff
          
          #2 A detailed statement on the advantages and disadvantages of the original and refactored VBA script 
 
-#Disadvantages
+# Disadvantages
 
 - Complex codes you’re most likely to break up in several functions
 - Refactoring a code could be very time consuming
 - Refactoring a code could possibly affect the testing outcomes
 -  This could also be considered a negative but a long procedure can contain the same line code in several locations. Although this can be argued, code can be copied and pasted which could also make a long code process a little easier.
 
-#Advantages
+# Advantages
 
 - It made the dataset much easier to read for any user and user friendly 
 - Any logical errors that may appear, are easy to detect and fix
 - Patterns are easy to detect
          
-#Advantages of refactoring the Original VBA script
+# Advantages of refactoring the Original VBA script
 
 - The biggest advantage about Code refactoring is in the definition itself, Improving or updating the code without changing the software’s functionality or external behavior.
 
