@@ -5,7 +5,7 @@
 
 In this project the purpose of this assignment was to take the Stock Market Dataset and refactor the data set with VBA Solution. With VBA I was able to loop through all the data at once in order to collect an entire dataset.
 
-####Future Users
+### Future Users
 
 Using VBA with the information given, I was able to make the code more efficient by making the data overall easier to read for future users.
 
