@@ -7,7 +7,7 @@ In this project the purpose of this assignment was to take the Stock Market Data
 
 ### Future Users
 
-Using VBA with the information given, I was able to make the code more efficient by making the data overall easier to read for future users.
+Using VBA with the information I was given, I was able to make the code more efficient by making the data overall easier to read, change, and use for future users.
 
 # Results
      
