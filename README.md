@@ -21,25 +21,25 @@ In this project the purpose of this assignment was to take the Stock Market Data
      
 ## The Analysis Requirements, Code Examples, Compare Stock Performance :
 
-- VBA_Challenge_2018
+VBA_Challenge_2018.png
 
 ![name-of-you-image](https://github.com/skinnytwinvale/stocks-analysis/blob/2a87ea72f5b306567852b318795f7a5b67effd6d/VBA_Challenge_2018.png.png)
 
-- VBA_Challenge_2017
+VBA_Challenge_2017.png
 
 ![name-of-you-image](https://github.com/skinnytwinvale/stocks-analysis/blob/e24e13261097ff89df7ae3b997f86b5852a9012f/VBA_Challenge_2017.png)
 
-- Comparing the two charts I was able to determine in 2017 the Stocks did much better than in 2018.
+Comparing the two charts I was able to determine in 2017 the Stocks did much better than in 2018.
 
-**1 tickerIndex
+**1. tickerIndex
 
 > Setting the Ticker index to 0, this allowed me to access the correct index across the four different arrays. 
 
-**2 Array 
+**2. Array 
 
 > Creating the Arrays tickers, tickerVolume, tickerStartingPrices, and tickerEndPrices it gave me the ability to store a lot of data in one variable.
 
-**3 Formatting
+**3. Formatting
 
 > Formatting the Return cells made it easier to determine which Stocks did well that year and which did not.
 
