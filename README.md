@@ -54,11 +54,11 @@ Comparing the two charts I was able to determine in 2017 the Stocks had a succes
 
 # SUMMARY: Our Statement
         
-### 1. Detailed statement on the advantages and disadvantages of refactoring code in general**
+### 1. A Detailed statement on the Advantages and Disadvantages of Refactoring Code in General
          
 > Refactoring a code is very tedious work, you’ll have to take lots of small steps to achieve the result you want. Overall, it makes any dataset easier to read and comprehend.
          
-### 2. A detailed statement on the advantages and disadvantages of the original and refactored VBA script
+### 2. A Detailed Statement on the Advantages and Disadvantages of the Original and Refactored VBA Script
 
 #### Disadvantages
 
