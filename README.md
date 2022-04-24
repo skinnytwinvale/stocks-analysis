@@ -58,22 +58,22 @@ Comparing the two charts I was able to determine in 2017 the Stocks had a succes
          
 > Refactoring a code is very tedious work, you’ll have to take lots of small steps to achieve the result you want. Overall, it makes any dataset easier to read and comprehend.
          
-**2. A detailed statement on the advantages and disadvantages of the original and refactored VBA script**
+##2. A detailed statement on the advantages and disadvantages of the original and refactored VBA script**
 
-## Disadvantages
+### Disadvantages
 
 - Complex codes you’re most likely to break up in several functions
 - Refactoring a code could be very time consuming
 - Refactoring a code could possibly affect the testing outcomes
 -  This could also be considered a negative but a long procedure can contain the same line code in several locations. Although this can be argued, code can be copied and pasted which could also make a long code process a little easier.
 
-## Advantages
+### Advantages
 
 - It made the dataset much easier to read for any user and user friendly 
 - Any logical errors that may appear, are easy to detect and fix
 - Patterns are easy to detect
          
-## Advantages of refactoring the Original VBA script
+### Advantages of refactoring the Original VBA script
 
 > The biggest advantage about Code refactoring is in the definition itself, Improving or updating the code without changing the software’s functionality or external behavior.
 
