@@ -14,10 +14,12 @@ Using VBA with the information I was given, I was able to make the code more eff
 ##The Analysis Described With Screenshots and Code 
 
 -VBA_Challenge_2018
-https://github.com/skinnytwinvale/stocks-analysis/blob/2a87ea72f5b306567852b318795f7a5b67effd6d/VBA_Challenge_2018.png.png
+
+![name-of-you-image](https://github.com/skinnytwinvale/stocks-analysis/blob/2a87ea72f5b306567852b318795f7a5b67effd6d/VBA_Challenge_2018.png.png)
 
 -VBA_Challenge_2017
-https://github.com/skinnytwinvale/stocks-analysis/blob/e24e13261097ff89df7ae3b997f86b5852a9012f/VBA_Challenge_2017.png
+
+![name-of-you-image](https://github.com/skinnytwinvale/stocks-analysis/blob/e24e13261097ff89df7ae3b997f86b5852a9012f/VBA_Challenge_2017.png)
 
 - Comparing the two charts I was able to determine in 2017 the Stocks did much better than in 2018.
         *tickerIndex
