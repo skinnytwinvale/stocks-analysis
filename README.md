@@ -9,6 +9,10 @@ In this project the purpose of this assignment was to take the Stock Market Data
 
 Using VBA with the information I was given, I was able to make the code more efficient by making the data overall easier to read, change, and use for future users.
 
+### Our Challenge Data Background
+
+> Steve loves the workbook you prepared for him. At the click of a button, he can analyze an entire dataset. Now, to do a little more research for his parents, he wants to expand the dataset to include the entire stock market over the last few years. Although your code works well for a dozen stocks, it might not work as well for thousands of stocks. And if it does, it may take a long time to execute.
+
 # Results
      
 ## The Analysis Described With Screenshots and Code 
