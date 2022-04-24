@@ -12,11 +12,12 @@ Using VBA with the information I was given, I was able to make the code more eff
 # Results
      
      #The analysis described with screenshots and code 
-*VBA_Challenge_2018
+-VBA_Challenge_2018
 
 
 
-*VBA_Challenge_2017
+-VBA_Challenge_2017
+https://github.com/skinnytwinvale/stocks-analysis/blob/e24e13261097ff89df7ae3b997f86b5852a9012f/VBA_Challenge_2017.png
 
 - Comparing the two charts I was able to determine in 2017 the Stocks did much better than in 2018.
         *tickerIndex
