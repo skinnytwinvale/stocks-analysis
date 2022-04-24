@@ -1,11 +1,11 @@
 # Stocks-Analysis
-# OVERVIEW: VBA Stock Analysis Project
+## OVERVIEW: VBA Stock Analysis Project
 
--The Purpose and Background 
+### The Purpose and Background 
 
-The purpose of this assignment was to take the Stock Market Dataset and refactor the data set with VBA Solution. With VBA I was able to loop through all the data at once in order to collect an entire dataset.
+In this project the purpose of this assignment was to take the Stock Market Dataset and refactor the data set with VBA Solution. With VBA I was able to loop through all the data at once in order to collect an entire dataset.
 
--Future Users
+###Future Users
 
 Using VBA with the information given, I was able to make the code more efficient by making the data overall easier to read for future users.
 
@@ -26,7 +26,7 @@ Using VBA with the information given, I was able to make the code more efficient
 *Formatting
 - Formatting the Return cells made it easier to determine which Stocks did well that year and which did not.
 
-# Summary
+# SUMMARY: Our Statement
         
         #1 Detailed statement on the advantages and disadvantages of refactoring code in general 
          
