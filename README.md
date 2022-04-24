@@ -31,7 +31,7 @@ VBA_Challenge_2017.png
 
 Comparing the two charts I was able to determine in 2017 the Stocks had a successful year compared to the Stock data in 2018.
 
-**1. tickerIndex
+**1. tickerIndex**
 
 > Setting the Ticker index to 0, this allowed me to access the correct index across the four different arrays. 
 
@@ -39,11 +39,11 @@ Comparing the two charts I was able to determine in 2017 the Stocks had a succes
 
 > Creating the Arrays tickers, tickerVolume, tickerStartingPrices, and tickerEndPrices it gave me the ability to store a lot of data in one variable.
 
-**3. Formatting
+**3. Formatting**
 
 > Formatting the Return cells made it easier to determine which Stocks did well that year and which did not.
 
-**4. Comments
+**4. Comments**
 
 > Comments are text notes added to the program to provide explanatory information about the source code. They are used in a programming language to document the program and remind programmers of what tricky things they just did with the code and also helps the later generation for understanding and maintenance of code
 
