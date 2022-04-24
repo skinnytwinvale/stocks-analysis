@@ -35,7 +35,7 @@ Comparing the two charts I was able to determine in 2017 the Stocks had a succes
 
 > Setting the Ticker index to 0, this allowed me to access the correct index across the four different arrays. 
 
-**2. Array 
+**2. Array**
 
 > Creating the Arrays tickers, tickerVolume, tickerStartingPrices, and tickerEndPrices it gave me the ability to store a lot of data in one variable.
 
@@ -54,28 +54,28 @@ Comparing the two charts I was able to determine in 2017 the Stocks had a succes
 
 # SUMMARY: Our Statement
         
-        #1 Detailed statement on the advantages and disadvantages of refactoring code in general 
+**1. Detailed statement on the advantages and disadvantages of refactoring code in general**
          
-- Refactoring a code is very tedious and you’ll have to take lots of small steps to achieve the result you want. Overall, it makes any dataset easier to read and comprehend.
+> Refactoring a code is very tedious work, you’ll have to take lots of small steps to achieve the result you want. Overall, it makes any dataset easier to read and comprehend.
          
-         #2 A detailed statement on the advantages and disadvantages of the original and refactored VBA script 
+**2. A detailed statement on the advantages and disadvantages of the original and refactored VBA script**
 
-# Disadvantages
+## Disadvantages
 
 - Complex codes you’re most likely to break up in several functions
 - Refactoring a code could be very time consuming
 - Refactoring a code could possibly affect the testing outcomes
 -  This could also be considered a negative but a long procedure can contain the same line code in several locations. Although this can be argued, code can be copied and pasted which could also make a long code process a little easier.
 
-# Advantages
+## Advantages
 
 - It made the dataset much easier to read for any user and user friendly 
 - Any logical errors that may appear, are easy to detect and fix
 - Patterns are easy to detect
          
-# Advantages of refactoring the Original VBA script
+## Advantages of refactoring the Original VBA script
 
-- The biggest advantage about Code refactoring is in the definition itself, Improving or updating the code without changing the software’s functionality or external behavior.
+> The biggest advantage about Code refactoring is in the definition itself, Improving or updating the code without changing the software’s functionality or external behavior.
 
-A well-organized code makes it easier to read, change, and understand the code. Lots of difficulty can be avoided by having your code organized and maintained in the beginning, instead of trying to clean it up later in the process when an error pops up.
+> A well-organized code makes it easier to read, change, and understand the code. Lots of difficulty can be avoided by having your code organized and maintained in the beginning, instead of trying to clean it up later in the process when an error pops up.
 
