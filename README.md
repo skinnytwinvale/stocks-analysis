@@ -29,7 +29,7 @@ VBA_Challenge_2017.png
 
 ![name-of-you-image](https://github.com/skinnytwinvale/stocks-analysis/blob/e24e13261097ff89df7ae3b997f86b5852a9012f/VBA_Challenge_2017.png)
 
-Comparing the two charts I was able to determine in 2017 the Stocks did much better than in 2018.
+Comparing the two charts I was able to determine in 2017 the Stocks had a successful year compared to the Stock data in 2018.
 
 **1. tickerIndex
 
@@ -42,6 +42,15 @@ Comparing the two charts I was able to determine in 2017 the Stocks did much bet
 **3. Formatting
 
 > Formatting the Return cells made it easier to determine which Stocks did well that year and which did not.
+
+**4. Comments
+
+> Comments are text notes added to the program to provide explanatory information about the source code. They are used in a programming language to document the program and remind programmers of what tricky things they just did with the code and also helps the later generation for understanding and maintenance of code
+
+- Documentation
+- Grouping
+- Limits the line length
+- Avoids lengthy nesting
 
 # SUMMARY: Our Statement
         
